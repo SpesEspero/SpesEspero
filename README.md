@@ -54,7 +54,7 @@ You can check it out [here](https://spesespero.github.io/Bifurcator-Chat/)
 * Technologies
   * HTML
   * CSS
-  * Vanilla JS
+  * JS
 
 ### Burger Chilli
 You can check it out [here](https://spesespero.github.io/Burger-chilli/)
@@ -67,7 +67,7 @@ You can check it out [here](https://spesespero.github.io/Burger-chilli/)
 * Technologies
   * HTML5
   * SCSS
-  * Vanilla JS (Carousel, pop-ups, tabs)
+  * JS (Slider, pop-ups, tabs)
 
 
 ### Muncak
