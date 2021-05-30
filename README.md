@@ -4,8 +4,8 @@
 I am junior frontent developer, **currently searching for a job**.
 
 
-- 🌱 I’m currently learning JavaScript, React
-- 📫 How to reach me: [Telegram](https://t.me/SpesEspero)
+- 🌱 I’m currently improving skills in JavaScript and learning React
+- 📫 How to reach me: [Telegram](https://t.me/SpesEspero) / ecargsid@gmail.com
 
 ### Resume
 [Resume](https://hh.ru/resume/8ba79834ff08f30b380039ed1f376b64537753)
