@@ -35,7 +35,7 @@ You can check it out [here](https://spesespero.github.io/Bifurcator-Chat/)
   * The paradigm of object-oriented programming is used
   * On the page, you can initially see the last 10 messages. If the user has viewed all messages, another 10 messages are loaded when scrolling.
   * The maximum message length is 200 symbols, if the user entered more than 200 symbols, then the message is divided into 2 or more.
-  * All messages and users are saved in Local Storage so when you log in again, all previously created messages and users are saved.
+  * All messages and users are saved in Local Storage.
 
 
 * The user has the ability to:
