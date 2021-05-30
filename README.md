@@ -60,7 +60,9 @@ You can check it out [here](https://spesespero.github.io/Bifurcator-Chat/)
 You can check it out [here](https://spesespero.github.io/Burger-chilli/)
 * About:
   * Landing page of Burger Shop.
-  * You can add burgers to the basket, you can also check the contents of the basket if you click on the basket icon in the page header. You can remove selected burgers from the basket.
+  * You can add burgers to the basket.
+  * You can also check the contents of the basket if you click on the basket icon in the page header.
+  * You can remove selected burgers from the basket.
   * A callback form has been implemented, the form transfer button is located in the page header.
   * Slider, tabs, pop-ups are implemented without using libraries.
 
